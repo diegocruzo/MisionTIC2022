@@ -23,13 +23,17 @@ pila.Show()
 
 # Retirar un elemento en la pila
 pila.Pop()
-pila.Pop()
-pila.Pop()
-pila.Pop()
 
 print("\n\nElementos en la pila:")
 pila.Show()
 
+
+# Ejercicio:
+# Elaborar un sistema que almacene elementos como la descripción, valor unitario, cantidad
+# y subtotal de cada producto en una factura y mostrar el valor total al final.
+# Presentar opciones para ingresar un nuevo elemento y para modificar únicamente el último elemento
+# ingresado. La modificación se hace eliminando el último elemento e ingresando un elemento nuevo
+# con los datos actualizados.
 
 
 
