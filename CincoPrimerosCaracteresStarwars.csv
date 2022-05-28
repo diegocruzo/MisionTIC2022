@@ -1,0 +1,6 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,gender,homeworld,species
+Luke Skywalker,172,77,blond,fair,blue,19BBY,male,Tatooine,Human
+C-3PO,167,75,NA,gold,yellow,112BBY,NA,Tatooine,Droid
+R2-D2,96,32,NA,"white, blue",red,33BBY,NA,Naboo,Droid
+Darth Vader,202,136,none,white,yellow,41.9BBY,male,Tatooine,Human
+Leia Organa,150,49,brown,light,brown,19BBY,female,Alderaan,Human
