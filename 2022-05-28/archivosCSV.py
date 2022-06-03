@@ -38,10 +38,8 @@ for i in range(5):
 with open('CincoPrimerosCaracteresStarwars.csv', 'w') as csvFile:
     # En "documento" se almacena la información del archivo con el alias "csvFile" haciendo uso de los métodos CSV
     documento = csv.writer(csvFile)
-    
     # Escribir una sola fila (encabezados en el archivo)
     documento.writerow(encabezados)
-    
     # Escribir varias filas (registros en el archivo)
     documento.writerows(top5)
     
