@@ -77,6 +77,8 @@ class Stack():
             print(aux._dato,end=" ")
             aux = aux._siguiente
 
+
+
 # Clase lista simplemente enlazada
 class SinglyLinkedList():
     
